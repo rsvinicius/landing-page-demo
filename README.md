@@ -15,4 +15,3 @@ This project is a part of The Odin Project's Foundations Course, specifically in
 - Develop a well-structured HTML document using appropriate tags.
 - Apply CSS for styling to create an attractive landing page.
 - Utilize Flexbox to manage layout and element positioning.
-- Ensure the landing page is responsive and displays effectively on various screen sizes.
